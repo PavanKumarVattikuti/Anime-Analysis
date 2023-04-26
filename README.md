@@ -1,4 +1,4 @@
-# PowerBI
+# Anime-Analysis
 Data Analysis Dashboard
 
 This Project consists Top 250 anime Data collected in Q1 of 2023
